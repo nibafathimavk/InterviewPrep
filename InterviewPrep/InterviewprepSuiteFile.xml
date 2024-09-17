@@ -1,0 +1,8 @@
+<suite name="InterviewPrep">
+	<test name="MyTest">
+		<classes>
+			<class name="TestcasePkg.LoginTest"></class>
+			<class name="TestcasePkg.HomeTest"></class>
+		</classes>
+	</test>
+</suite>
